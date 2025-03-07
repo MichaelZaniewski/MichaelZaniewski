@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi👋 My name is Michael Zaniewski 
+
+My goal is to become a Business Analyst in the Aviation Industry and leverage my previous experience working with airlines. I have a Bachelors of Science degree in Marketing and a data-driven mindset.
+
+I'm currently working on an airline-delay project utilizing SQL to determine what an airline can improve to increase on-time departures. Open to collaboration!
+
+
+
+
+
+
 
 <!--
 **MichaelZaniewski/MichaelZaniewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
