@@ -4,9 +4,10 @@ My goal is to become a Business Analyst in the Aviation Industry and leverage my
 
 I'm currently working on an airline-delay project utilizing SQL to determine what an airline can improve to increase on-time departures. Open to collaboration!
 
-
-
-
+You can contact me at:
+- 📧Email: MZaniewski282@gmail.com
+- 📱LinkedIn: www.linkedin.com/in/michaelzaniewski/
+- 📷Instagram: www.instagram.com/michael_zaniewski/
 
 
 
