@@ -10,7 +10,7 @@ You can contact me at:
   
 - 📲LinkedIn: [MichaelZaniewski](https://www.linkedin.com/in/michaelzaniewski/)
   
-- 📷Instagram: [@Michael_Zaniewski](www.instagram.com/michael_zaniewski/)
+- 📷Instagram: [@Michael_Zaniewski](https://www.instagram.com/michael_zaniewski/)
 
 
 
