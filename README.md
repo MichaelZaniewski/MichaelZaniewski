@@ -8,7 +8,7 @@ You can contact me at:
 
 - 📧Email: [MZaniewski282@gmail.com](mailto:mzaniewski282@gmail.com)
   
-- 📲LinkedIn: [MichaelZaniewski](www.linkedin.com/in/michaelzaniewski/)
+- 📲LinkedIn: [MichaelZaniewski](https://www.linkedin.com/in/michaelzaniewski/)
   
 - 📷Instagram: [@Michael_Zaniewski](www.instagram.com/michael_zaniewski/)
 
