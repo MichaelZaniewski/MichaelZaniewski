@@ -6,11 +6,11 @@ I'm currently working on an airline-delay project utilizing SQL to determine wha
 
 You can contact me at:
 
-- 📧Email: MZaniewski282@gmail.com
+- 📧Email: [MZaniewski282@gmail.com](mailto:mzaniewski282@gmail.com)
   
-- 📲LinkedIn: www.linkedin.com/in/michaelzaniewski/
+- 📲LinkedIn: [MichaelZaniewski](www.linkedin.com/in/michaelzaniewski/)
   
-- 📷Instagram: www.instagram.com/michael_zaniewski/
+- 📷Instagram: [@Michael_Zaniewski](www.instagram.com/michael_zaniewski/)
 
 
 
