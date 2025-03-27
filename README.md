@@ -6,7 +6,7 @@ I'm currently working on an airline-delay project utilizing SQL to determine wha
 
 Check out my portfolio [here](https://michaelzaniewski.carrd.co/)
 
-Contact me at:
+Contact me!
 - 📧Email: [MZaniewski282@gmail.com](mailto:mzaniewski282@gmail.com)
   
 - 📲LinkedIn: [MichaelZaniewski](https://www.linkedin.com/in/michaelzaniewski/)
