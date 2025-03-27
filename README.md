@@ -7,10 +7,10 @@ I'm currently working on an airline-delay project utilizing SQL to determine wha
 Check out my portfolio [here](https://michaelzaniewski.carrd.co/)
 
 Contact me!
-- 📧Email: [MZaniewski282@gmail.com](mailto:mzaniewski282@gmail.com)
-  
 - 📲LinkedIn: [MichaelZaniewski](https://www.linkedin.com/in/michaelzaniewski/)
   
+- 📧Email: [MZaniewski282@gmail.com](mailto:mzaniewski282@gmail.com)
+
 - 📷Instagram: [@Michael_Zaniewski](https://www.instagram.com/michael_zaniewski/)
 
 
