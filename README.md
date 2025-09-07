@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Michael Zaniewski 
 
-My goal is to become a Business Analyst in the Aviation Industry and leverage my previous experience working with airlines. I have a Bachelors of Science degree in Marketing and a data-driven mindset.
+My goal is to become a Data Analyst in the Aviation Industry and leverage my previous experience working with airlines. I have a Bachelors of Science degree in Marketing and a data-driven mindset.
 
 I'm currently working on a customer sentiment analysis project utilizing Tableau to determine what key service elements of an airline can be improved.
 
